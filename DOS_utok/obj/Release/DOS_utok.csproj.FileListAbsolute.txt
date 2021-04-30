@@ -1,0 +1,7 @@
+D:\programovani\skola\POU\DOS_utok\DOS_utok\obj\Release\DOS_utok.csproj.CoreCompileInputs.cache
+D:\programovani\skola\POU\DOS_utok\DOS_utok\bin\Release\DOS_utok.exe.config
+D:\programovani\skola\POU\DOS_utok\DOS_utok\bin\Release\DOS_utok.exe
+D:\programovani\skola\POU\DOS_utok\DOS_utok\bin\Release\DOS_utok.pdb
+D:\programovani\skola\POU\DOS_utok\DOS_utok\obj\Release\DOS_utok.exe
+D:\programovani\skola\POU\DOS_utok\DOS_utok\obj\Release\DOS_utok.pdb
+D:\programovani\skola\POU\DOS_utok\DOS_utok\obj\Release\DOS_utok.csprojAssemblyReference.cache
